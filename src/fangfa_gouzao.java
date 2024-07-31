@@ -3,6 +3,10 @@ public class fangfa_gouzao {
         persons p = new persons("Xiao Ming",12);
         System.out.println(p.getName());
         System.out.println(p.getAge());
+//        persons p1 = new persons();
+//        System.out.println(p1.getName());
+//        System.out.println(p1.getAge());
+        
     }
 }
 
